@@ -37,7 +37,8 @@ Giao diện khi Click vào xem Shop
 Các chức năng Search by Ajax, Seach bằng Cateory, Giá, Khoảng giá, Các màu sắc cơ bản
 ![GiaoDien_2](https://github.com/o0oPintero0o/Java_Web/assets/138128879/c0c9f60a-2c43-47d0-824f-3986498ac4b0)
 
-![GiaoDien3](https://github.com/o0oPintero0o/Java_Web/assets/138128879/5015a0eb-d605-46b![GiaoDien4](https://github.com/o0oPintero0o/Java_Web/assets/138128879/a2d10fb1-1824-4bb0-bf83-bd74791c6dae)
+![GiaoDien3](https://github.com/o0oPintero0o/Java_Web/assets/138128879/5015a0eb-d605-46b
+![GiaoDien4](https://github.com/o0oPintero0o/Java_Web/assets/138128879/a2d10fb1-1824-4bb0-bf83-bd74791c6dae)
 5-87aa-1e215aec83f8)
 
 Khi Click Detail sản phẩm
