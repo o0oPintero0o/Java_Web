@@ -34,12 +34,13 @@ Bắt buộc phải nhập mật khẩu trùng nhau, và có > 6 ký tự
 Giao diện khi Click vào xem Shop
 ![GiaoDienShop_1](https://github.com/o0oPintero0o/Java_Web/assets/138128879/03430638-e5b8-4665-9c47-16bde709c62e)
 
-Các chức năng Search by Ajax, Seach bằng Cateory, Giá, Khoảng giá, Các màu sắc cơ bản
+Các chức năng Search by Ajax, Seach bằng Cateory, Giá, Khoảng giá
 ![GiaoDien_2](https://github.com/o0oPintero0o/Java_Web/assets/138128879/c0c9f60a-2c43-47d0-824f-3986498ac4b0)
-
-![GiaoDien3](https://github.com/o0oPintero0o/Java_Web/assets/138128879/5015a0eb-d605-46b
+Search các khoảng giá
+![GiaoDien3](https://github.com/o0oPintero0o/Java_Web/assets/138128879/c0dc5a6d-626d-4459-b82e-9d5c81d24e50)
+Search theo màu sắc
 ![GiaoDien4](https://github.com/o0oPintero0o/Java_Web/assets/138128879/a2d10fb1-1824-4bb0-bf83-bd74791c6dae)
-5-87aa-1e215aec83f8)
+
 
 Khi Click Detail sản phẩm
 ![GiaoDienDetail](https://github.com/o0oPintero0o/Java_Web/assets/138128879/a9a7035f-1845-4cde-a340-dfb7f00903e3)
